@@ -1,0 +1,165 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "teacher_id": 1,
+      "Isim": "Osman",
+      "Soy_isim": "Osmanoğlu",
+      "Password": "111"
+    },
+    {
+      "id": 2,
+      "teacher_id": 2,
+      "Isim": "Osman",
+      "Soy_isim": "Kemaloğlu",
+      "Password": "222"
+    },
+    {
+      "id": 3,
+      "teacher_id": 3,
+      "Isim": "ali",
+      "Soy_isim": "Osmanoğlu",
+      "Password": "333"
+    },
+    {
+      "id": 4,
+      "teacher_id": 4,
+      "Isim": "veli",
+      "Soy_isim": "Kemaloğlu",
+      "Password": "444"
+    },
+    {
+      "id": 5,
+      "teacher_id": 5,
+      "Isim": "kamil",
+      "Soy_isim": "Osmanoğlu",
+      "Password": "555"
+    },
+    {
+      "id": 6,
+      "teacher_id": 6,
+      "Isim": "oy",
+      "Soy_isim": "Kemaloğlu",
+      "Password": "666"
+    }
+  ],
+  "user": [
+    {
+      "Isim": "semih",
+      "Soy_isim": "çetin",
+      "TelefonNo": "41124",
+      "KullanıcıAdı": "semih",
+      "Sifre": "123",
+      "Avatar": "https://img.piri.net/mnresize/900/-/resim/upload/2018/10/17/02/08/3954432cstalkyapiyorum.jpg",
+      "id": 1
+    },
+    {
+      "Isim": "fafsa",
+      "Soy_isim": "asfasf",
+      "TelefonNo": "asfsaf",
+      "KullanıcıAdı": "safasf",
+      "Sifre": "asfasfas",
+      "Avatar": "fasfasf",
+      "id": 2
+    },
+    {
+      "Isim": "fafsa",
+      "Soy_isim": "asfasf",
+      "TelefonNo": "4124",
+      "KullanıcıAdı": "safasf",
+      "Sifre": "asfasfas",
+      "Avatar": "fasfasf",
+      "id": 3
+    }
+  ],
+  "student": [
+    {
+      "student_id": "1",
+      "Isim": "Abdurrezzak",
+      "Soy_isim": "aleykümselam",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "student_id": 2,
+      "Isim": "Ahmet",
+      "Soy_isim": "Kaçar"
+    },
+    {
+      "Isim": "osman",
+      "Soy_isim": "tok",
+      "student_id": "431",
+      "id": 3
+    },
+    {
+      "Isim": "osman",
+      "Soy_isim": "tok",
+      "student_id": "431",
+      "id": 4
+    },
+    {
+      "Isim": "osman",
+      "Soy_isim": "tok",
+      "student_id": "431",
+      "id": 5
+    },
+    {
+      "Isim": "osman",
+      "Soy_isim": "tok",
+      "student_id": "431",
+      "id": 6
+    },
+    {
+      "Isim": "osman",
+      "Soy_isim": "tok",
+      "student_id": "431",
+      "id": 7
+    },
+    {
+      "Isim": "osman",
+      "Soy_isim": "tok",
+      "student_id": "431",
+      "id": 8
+    },
+    {
+      "Isim": "semih",
+      "Soy_isim": "çetin",
+      "TelefonNo": 1515522,
+      "KullanıcıAdı": "semih2341",
+      "Sifre": "1522",
+      "id": 9
+    },
+    {
+      "Isim": "semih",
+      "Soy_isim": "çetin",
+      "TelefonNo": 1515522,
+      "KullanıcıAdı": "semih2341",
+      "Sifre": "1522",
+      "id": 10
+    },
+    {
+      "Isim": "semih",
+      "Soy_isim": "çetin",
+      "TelefonNo": 1515522,
+      "KullanıcıAdı": "semih2341",
+      "Sifre": "1522",
+      "id": 11
+    },
+    {
+      "Isim": "semih",
+      "Soy_isim": "çetin",
+      "TelefonNo": 1515522,
+      "KullanıcıAdı": "semih2341",
+      "Sifre": "1522",
+      "id": 12
+    },
+    {
+      "Isim": "semih",
+      "Soy_isim": "çetin",
+      "TelefonNo": 1515522,
+      "KullanıcıAdı": "semih2341",
+      "Sifre": "1522",
+      "id": 13
+    }
+  ]
+}
